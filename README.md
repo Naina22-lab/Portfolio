@@ -1,2 +1,2 @@
 # Portfolio
-Here is my portfolio in which  I showed up my projects, skills ,coding platform and  contact me .
+Here is my portfolio in which  I showed my projects, skills, coding platform, and  contact me section.
